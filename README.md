@@ -62,5 +62,6 @@ The frontend server provides a proxy to the backend on the `/api` path so you do
 
 ### Submitting your implementation
 
-1. Run `git bundle create challenge-<your-name>.bundle --all`
-2. Send us the generated bundle file
+1. Commit all your changes.
+2. Run `git bundle create challenge-<your-name>.bundle --all`
+3. Send us the generated bundle file
